@@ -1,0 +1,1 @@
+A color-guessing game in which the user is initiallyprovided a finite number of colors and they need to guessthe correct sequence that match the system-generatedsequence in a limited number of turns.
